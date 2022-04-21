@@ -34,7 +34,7 @@ void main() {
               ),
               SizedBox(
                 height: 20.0,
-                width: 200.0,
+                width: 180.0,
                 child: Divider(
                   color: Colors.teal.shade100,
                   thickness: 1.0,
